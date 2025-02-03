@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Paul Nhlapo 
-Bsc Information and Knowledge Systems Student(Software Engineer)
-- 👀 Web developer and UX designer
-- 🌱 I’m currently learning .NET Core Web API Back-end and Angular and ionic for frontend.
-- 💞️ I’m looking to collaborate on some repositories that deal with some of my interests in the near future
+I’m a recent BSc Information and Knowledge Systems graduate passionate about **frontend development**, **backend development**, and **UI/UX design**. I love building user-friendly, efficient, and visually appealing applications. I’m currently looking for a **junior developer role** to kickstart my career and grow my skills.
 - 📫 How to reach me 
 paulnhlapo4@gmail.com)
 
